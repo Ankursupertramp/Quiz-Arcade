@@ -185,6 +185,19 @@ ul li :hover{
     color: #e2dff3;
     margin-left: 68vw;
 }
+.mail{
+    width: 131px;
+background: none;
+border: none;
+margin-left: 75vw;
+margin-top: 50px;
+
+
+}
+.get{
+    color: white;
+    font-size: 16px;
+}
 
 
 @media screen and (max-width: 600px){
@@ -311,4 +324,5 @@ ul li :hover{
     }
 
 }
+
 
